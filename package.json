@@ -1,0 +1,19 @@
+{
+  "name": "ng-upload",
+  "description": "Angular.js shim to handle input[type=file] 'change' events",
+  "keywords": [
+    "angular",
+    "nginput",
+    "input",
+    "upload"
+  ],
+  "version": "0.0.0",
+  "homepage": "https://github.com/chbrown/ng-upload",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chbrown/ng-upload"
+  },
+  "bugs": "https://github.com/chbrown/ng-upload/issues",
+  "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
+  "license": "MIT"
+}
